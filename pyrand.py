@@ -16,4 +16,4 @@ def rand():
     print('Take a deep breathe and note down the below number ')
     number = random.randint(1111,9999)
     print('The secret number is : ',number)
-rand()
+    return print('The secret number is : ',number)
